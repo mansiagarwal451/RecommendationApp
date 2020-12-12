@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    /* background-color: blue; */
+  }
+  
+  li {
+    text-align: left;
+  }
+  
+  body {
+    background-color: bisque;
+    font-family: serif;
+    max-width: 400px;
+    margin: auto;
+  }
+  
